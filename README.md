@@ -15,7 +15,7 @@
 - **Internship:** I completed a 6-month Software Developer internship in the IT department at Rajiv Gandhi Cancer Institute, where I contributed to the development and optimization of software solutions for healthcare management. During this internship, I gained hands-on experience in Resact and Java programming, Postgres, and collaborative project development within a high-impact, real-world healthcare project.
 
 ## 🌐 Socials:
-Connect with me if you want to collaborate or have any questions!
+Connect with me if you want to collaborate or have any questions! <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-Sachin%20Upadhyay-pink?logo=instagram&logoColor=white)](https://www.instagram.com/upadhyaysachin414)
 [![Facebook](https://img.shields.io/badge/Facebook-Sachin%20Upadhyay-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011625990307)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin%20Upadhyay-blue?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sachin-kumar-upadhyay-301b35278?trk=people-guest_people_search-card)
