@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Sachin Upadhyay
 ## 🔗 I am a Software Developer. 😊😊
-
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-
 - 👨‍💻 **Current Role**:Software Engineer
 - 💻 **I’m currently learning:** Spring Boot MVC
 - 👯 **I’m looking to collaborate on:** Exciting tech projects, particularly in frontend & backend development or system integrations for hospital-related software
