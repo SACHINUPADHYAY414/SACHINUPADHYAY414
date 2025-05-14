@@ -11,7 +11,7 @@
 
 ## 💼 Experience :
 
-- **Current Position** I’m currently working on-site at Rajiv Gandhi Cancer Institute & Research Centre (RGCI&RC) as a Software Engineer.
+- **Current Position:** I’m currently working on-site at Rajiv Gandhi Cancer Institute & Research Centre (RGCI&RC) as a Software Engineer.
 - **Internship:** I completed a 6-month Software Developer internship in the IT department at Rajiv Gandhi Cancer Institute, where I contributed to the development and optimization of software solutions for healthcare management. During this internship, I gained hands-on experience in Resact and Java programming, Postgres, and collaborative project development within a high-impact, real-world healthcare project.
 
 ## 🌐 Socials:
