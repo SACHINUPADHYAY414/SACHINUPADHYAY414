@@ -18,9 +18,9 @@ Email Me 👉 ✉️ **upadhyaysachin414@gmail.com** For Collaboration/Project o
 ## 🌐 Socials:
 Connect with me if you want to collaborate or have any questions!
 
-[![Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/upadhyaysachin414)
-[![Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011625990307)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Techno%20Snag-blue?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sachin-kumar-upadhyay-301b35278?trk=people-guest_people_search-card)
+[![Instagram]](https://www.instagram.com/upadhyaysachin414)
+[![Facebook]](https://www.facebook.com/profile.php?id=100011625990307)
+[![LinkedIn]](https://in.linkedin.com/in/sachin-kumar-upadhyay-301b35278?trk=people-guest_people_search-card)
 
 [![](https://visitcount.itsvg.in/api?id=upadhyaysachin414&icon=1&color=4)](https://visitcount.itsvg.in)
 
