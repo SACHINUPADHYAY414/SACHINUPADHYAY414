@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Sachin Upadhyay
-
 ## 🔗 I am a Software Developer. 😊😊
 
-**A passionate Software Engineer from Delhi India**
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 👨‍💻 **Current Role**:Software Engineer
@@ -11,13 +9,10 @@
 - 💬 **Ask me about:** Collaboration opportunities, technical support, and problem-solving
 - 📫 **How to reach me:** upadhyaysachin414@gmail.com
 
-💼 **Experience :**
+## 💼 Experience :
 
 - **Current Position** I’m currently working on-site at Rajiv Gandhi Cancer Institute & Research Centre (RGCI&RC) as a Software Engineer.
 - **Internship:** I completed a 6-month Software Developer internship in the IT department at Rajiv Gandhi Cancer Institute, where I contributed to the development and optimization of software solutions for healthcare management. During this internship, I gained hands-on experience in Resact and Java programming, Postgres, and collaborative project development within a high-impact, real-world healthcare project.
-
-Email Me 👉 ✉️ **upadhyaysachin414@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 
 ## 🌐 Socials:
 Connect with me if you want to collaborate or have any questions!
