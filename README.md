@@ -5,13 +5,16 @@
 **A passionate Software Engineer from Delhi India**
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🔭 **I’m currently working on:** Building a Patient Portal
-- 🌱 **I’m currently learning:** Spring Boot MVC
-- 👯 **I’m looking to collaborate on:** Exciting tech projects, particularly in backend development or system integrations for hospital-related software
-- 🤔 **I’m looking for help with:** Your project here
+- 👨‍💻 **Current Role**:Software Engineer
+- 💻 **I’m currently learning:** Spring Boot MVC
+- 👯 **I’m looking to collaborate on:** Exciting tech projects, particularly in frontend & backend development or system integrations for hospital-related software
 - 💬 **Ask me about:** Collaboration opportunities, technical support, and problem-solving
 - 📫 **How to reach me:** upadhyaysachin414@gmail.com
-- ⚡ **Fun fact:** I’m passionate about technology, and technology is just as passionate about me!
+
+💼 **Experience :**
+
+- **Current Position** I’m currently working on-site at Rajiv Gandhi Cancer Institute & Research Centre (RGCI&RC) as a Software Engineer.
+- **Internship:** I completed a 6-month Software Developer internship in the IT department at Rajiv Gandhi Cancer Institute, where I contributed to the development and optimization of software solutions for healthcare management. During this internship, I gained hands-on experience in Resact and Java programming, Postgres, and collaborative project development within a high-impact, real-world healthcare project.
 
 Email Me 👉 ✉️ **upadhyaysachin414@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
