@@ -3,6 +3,7 @@
 ## 🔗 I am a Software Developer. 😊😊
 
 **A passionate Software Engineer || DevOps Engineer from India**
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 🔭 **I’m currently working on:** Building a Patient Portal
 - 🌱 **I’m currently learning:** Spring Boot MVC
