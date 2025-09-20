@@ -36,9 +36,8 @@ Connect with me if you want to collaborate or have any questions! <br/>
 ![](https://github-profile-trophy.vercel.app/?username=SACHINUPADHYAY414&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=SACHINUPADHYAY414&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SACHINUPADHYAY414&theme=dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SACHINUPADHYAY414)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SACHINUPADHYAY414&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
