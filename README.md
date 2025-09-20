@@ -39,16 +39,17 @@ Connect with me if you want to collaborate or have any questions! <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SACHINUPADHYAY414&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-<table cellpadding="0" cellspacing="0" style="border: none">
+<table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="padding-right: 15px; border: none; text-align:center;">
-      <b>📊 GitHub Stats</b><br/>
+      <b style="display: block; margin-bottom: 10px;">📊 GitHub Stats</b>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SACHINUPADHYAY414&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="170" />
     </td>
     <td style="border: none; text-align:center;">
-      <b>🔝 Top Contributed Repo</b><br/>
+      <b style="display: block; margin-bottom: 10px;">🔝 Top Contributed Repo</b>
       <img src="https://github-contributor-stats.vercel.app/api?username=SACHINUPADHYAY414&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="300" />
+    </td>
   </tr>
 </table>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
