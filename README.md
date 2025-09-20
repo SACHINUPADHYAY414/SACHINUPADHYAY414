@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sachin Upadhyay
-## 🔗 I am a Software Developer. 😊😊
+## 🔗 I am a Fullstack Developer. 😊😊
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 👨‍💻 **Current Role**:Software Engineer
@@ -10,8 +10,9 @@
 
 ## 💼 Experience :
 
-- **Current Position:** I’m currently working on-site at Rajiv Gandhi Cancer Institute & Research Centre (RGCI&RC) as a Software Engineer.
-- **Internship:** I completed a 6-month Software Developer internship in the IT department at Rajiv Gandhi Cancer Institute, where I contributed to the development and optimization of software solutions for healthcare management. During this internship, I gained hands-on experience in Resact and Java programming, Postgres, and collaborative project development within a high-impact, real-world healthcare project.
+- **Software Engineer (Current)** — On-site at Rajiv Gandhi Cancer Institute & Research Centre (RGCI&RC), creating impactful healthcare applications.
+  
+- **Internship:** — I completed a 6-month Software Developer internship in the IT department at Rajiv Gandhi Cancer Institute, where I contributed to the development and optimization of software solutions for healthcare management. During this internship, I gained hands-on experience in Resact and Java programming, Postgres, and collaborative project development within a high-impact, real-world healthcare project.
 
 ## 🌐 Socials:
 Connect with me if you want to collaborate or have any questions! <br/>
@@ -22,8 +23,13 @@ Connect with me if you want to collaborate or have any questions! <br/>
 
 [![](https://visitcount.itsvg.in/api?id=upadhyaysachin414&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Snake Game Repo View -->
+### 🌟 Fun Facts About Me
+- ☕ Powered by endless cups of chai ☕
+- 🎮 Love playing strategy games in free time
+- 🚀 Always exploring new tech stacks and frameworks
+- 📚 Currently diving deeper into Spring Boot and microservices architecture
 
+<!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -35,11 +41,18 @@ Connect with me if you want to collaborate or have any questions! <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SACHINUPADHYAY414&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SACHINUPADHYAY414&theme=dark&hide_border=true)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SACHINUPADHYAY414&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding-right: 15px; border: none; text-align:center;">
+      <b>📊 GitHub Stats</b><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SACHINUPADHYAY414&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="150" />
+    </td>
+    <td style="border: none; text-align:center;">
+      <b>🔝 Top Contributed Repo</b><br/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=SACHINUPADHYAY414&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" height="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SACHINUPADHYAY414&icon=0&color=0)](https://visitcount.itsvg.in)
